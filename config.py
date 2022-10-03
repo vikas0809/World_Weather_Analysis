@@ -1,3 +1,0 @@
-weather_api_key="7bf88b1f686751d2c44b3455e17d0618"
-nytimes_api_key="6YeOqpcAHK3wvMkNm7WMl21N2HDrPMbL"
-g_key="AIzaSyDpWXlKynUcRoOpi1MIos0mFQ-xSHbAAQ8"
